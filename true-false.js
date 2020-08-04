@@ -27,3 +27,4 @@ Falsy values:
 4. NaN
 5. Null
 6. false
+*/
